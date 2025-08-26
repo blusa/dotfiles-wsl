@@ -87,3 +87,5 @@ fi
 
 alias ls='eza --icons --group-directories-first -h'
 
+
+. "$HOME/.local/bin/env"
